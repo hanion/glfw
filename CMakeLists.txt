@@ -131,7 +131,7 @@ if (GLFW_BUILD_TESTS)
 endif()
 
 if (DOXYGEN_FOUND AND GLFW_BUILD_DOCS)
-    add_subdirectory(docs)
+    #add_subdirectory(docs)
 endif()
 
 #--------------------------------------------------------------------
